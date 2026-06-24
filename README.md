@@ -8,6 +8,8 @@ It auto-uses your Tonics, Elixirs, Potions and Scrolls during combat, keeps your
 
 **Drop-in plugin.** Just put two files in your Skua plugins folder and load it. Works with **any Skua version** — including custom builds — because it uses Skua's standard plugin interface. No rebuild, no source edits.
 
+![Tw1st3r Plugin](screenshot.png)
+
 ---
 
 ## Install
